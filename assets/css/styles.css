@@ -36,3 +36,14 @@ nav li {
     margin-left: 10px;
     padding-right: 25px;
 }
+
+.hero {
+    width: 100%;
+}
+
+.hero img {
+    padding-top: 75px;
+    width: 100%;
+    height: auto;
+}
+
