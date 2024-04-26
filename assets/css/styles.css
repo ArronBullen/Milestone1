@@ -47,3 +47,14 @@ nav li {
     height: auto;
 }
 
+footer {
+    height: 5%;
+    display: flex;
+    position: ;
+
+}
+
+.social-media img {
+    display: inline;
+    width: 75px;
+}
