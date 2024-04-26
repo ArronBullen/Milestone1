@@ -17,3 +17,22 @@ header {
     width: 75px;
     height: auto;
 }
+
+nav {
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    text-transform: uppercase;
+    height: 100%;
+    margin: 0;
+    align-items: center;
+    display: flex;
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 10px;
+    padding-right: 25px;
+}
